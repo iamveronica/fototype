@@ -3,7 +3,7 @@ fototype
 
 http://veganbunny.com/projects/fireworksfototype/Fotos.htm
 
-This is a Fireworks Wireframe for an iPhone app I created for a college class. 
+This is an Adobe Fireworks Wireframe for an iPhone app I created for a college class. 
 
 I do not own all images in these files.
 
