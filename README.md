@@ -1,7 +1,7 @@
 fototype
 ========
 
-http://tinybunny.co/academic/iamx/
+http://tinybunny.co/academic/fototype/Fotos.htm
 
 This is an Adobe Fireworks Wireframe for an iPhone app that I created in 2011 for a college class. 
 
